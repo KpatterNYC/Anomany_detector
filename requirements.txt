@@ -1,0 +1,8 @@
+faust
+redis
+numpy
+scikit-learn
+joblib
+requests
+streamlit
+pandas
